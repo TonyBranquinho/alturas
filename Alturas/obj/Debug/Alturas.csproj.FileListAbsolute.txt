@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Alturas\Alturas\bin\Debug\Alturas.exe.config
+C:\temp\ws-vs2019\Alturas\Alturas\bin\Debug\Alturas.exe
+C:\temp\ws-vs2019\Alturas\Alturas\bin\Debug\Alturas.pdb
+C:\temp\ws-vs2019\Alturas\Alturas\obj\Debug\Alturas.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Alturas\Alturas\obj\Debug\Alturas.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Alturas\Alturas\obj\Debug\Alturas.exe
+C:\temp\ws-vs2019\Alturas\Alturas\obj\Debug\Alturas.pdb
